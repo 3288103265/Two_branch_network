@@ -1,0 +1,4 @@
+1. How to set dataset path;
+
+2. How to import checkpoint;
+https://www.jianshu.com/p/0237ebbee5d5
